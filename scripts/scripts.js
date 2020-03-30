@@ -22,3 +22,19 @@ function drawChart() {
   var chart = new google.visualization.PieChart(document.getElementById('piechart'));
   chart.draw(data, options);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// citation :https://www.w3schools.com/howto/tryit.asp?filename=tryhow_google_pie_chart
